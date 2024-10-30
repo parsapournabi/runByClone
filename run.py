@@ -1,1 +1,1 @@
-print('Hello from runByClone')
+print('byeBye from runByClone')
